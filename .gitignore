@@ -1,2 +1,6 @@
 image/BAC.png
+<<<<<<< HEAD
 *.png
+=======
+images/*
+>>>>>>> e7273b49dad0289af3cf82684407b6b0221638a3
